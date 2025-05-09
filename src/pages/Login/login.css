@@ -1,0 +1,23 @@
+/* Login.jsx Css */
+
+.login-modal-header{
+    background-color: #f5f5f5;
+    padding: 12px 24px;
+    font-size: 14;
+    border-bottom: 1px solid #ddd;
+}
+
+.login-modal-footer {
+    background-color: #f5f5f5;
+    padding: 12px 24px;
+    border-top: 1px solid #ddd;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.login-modal-body-title{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8;
+    white-space: nowrap;
+}
